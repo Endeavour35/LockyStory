@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bank_list">
+        <item>中国农业银行</item>
+        <item>中国建设银行</item>
+        <item>中国工商银行</item>
+        <item>中国招商银行</item>
+    </string-array>
+    <color name="back">#ff840101</color>
+    <color name="black">#ff000000</color>
+    <color name="black_slight">#212121</color>
+    <color name="blue">#ff0000ff</color>
+    <color name="gray">#ffe5e5e5</color>
+    <color name="gray1">#ff8b8b8b</color>
+    <color name="grayt">#fff7f3f7</color>
+    <color name="grayy">#ff6b716b</color>
+    <color name="green">#30690B</color>
+    <color name="greend">#ff247f00</color>
+    <color name="greensfc">#ff44d500</color>
+    <color name="invest">#ffc9cbcc</color>
+    <color name="investhui">#ffe1e2e5</color>
+    <color name="loginback">#ffd9d9d9</color>
+    <color name="logoback">#ff750000</color>
+    <color name="orange">#fffffec2</color>
+    <color name="orange1">#ffdfc274</color>
+    <color name="orange2">#ffdfc276</color>
+    <color name="orange3">#fffc8b01</color>
+    <color name="paleyellow">#ffb8d300</color>
+    <color name="purple">#ff470000</color>
+    <color name="red">#ffff0000</color>
+    <color name="red2">#ffb20000</color>
+    <color name="red_slight">#CD2626</color>
+    <color name="seashell">#fffff5ee</color>
+    <color name="snow">#fffffafa</color>
+    <color name="white">#ffffffff</color>
+    <color name="yellow">#ffffff99</color>
+    <color name="yellowy">#ffffff00</color>
+    <string name="app_name">手机中彩网</string>
+    <string name="hello">Hello World, ZCLotteryActivity!</string>
+    <string name="is_3d_default_notice">10选3中1000元</string>
+    <string name="is_3d_dx">单选</string>
+    <string name="is_3d_notice_0">需要在百位、十位、个位中各选一个或多个号码</string>
+    <string name="is_3d_notice_1">至少需要选择两个号码</string>
+    <string name="is_3d_notice_2">至少需要选择三个号码</string>
+    <string name="is_3d_number_title_bw">【百位】请选择1-10个号码</string>
+    <string name="is_3d_number_title_common">【号码】请选择1-10个号码</string>
+    <string name="is_3d_number_title_gw">【个位】请选择1-10个号码</string>
+    <string name="is_3d_number_title_sw">【十位】请选择1-10个号码</string>
+    <string name="is_3d_zl">组六</string>
+    <string name="is_3d_zs">组三</string>
+    <string name="is_auto_login">自动登录</string>
+    <string name="is_ball_blue">蓝球</string>
+    <string name="is_ball_red">红球</string>
+    <string name="is_bank_num">银行卡号：</string>
+    <string name="is_betting_result">投注结果</string>
+    <string name="is_betting_result_success">投注成功，扣除金额：</string>
+    <string name="is_cellphone_num">手机号:</string>
+    <string name="is_charge_alipay">支付宝余额充值</string>
+    <string name="is_charge_china_mobile">移动充值卡</string>
+    <string name="is_charge_china_mobile_des">支持全国通用的神州行充值卡，浙江、江苏的地方充值卡，手续费4%。</string>
+    <string name="is_charge_cmc">彩民村充值</string>
+    <string name="is_charge_cmc_des"/>
+    <string name="is_charge_mobile_card">手机卡充值</string>
+    <string name="is_charge_mobile_card_des"/>
+    <string name="is_charge_telecom">电信充值卡</string>
+    <string name="is_charge_telecom_des">支持全国通用的中国电信充值卡，手续费4%。</string>
+    <string name="is_charge_unicom">联通充值卡</string>
+    <string name="is_charge_unicom_des">支持全国通用的可国联通充值卡，手续费4%。</string>
+    <string name="is_charge_unionpay">银联卡充值</string>
+    <string name="is_charge_unionpay_alipay_des">0手续费，通过WAP或短信方式使用你的支付宝账户余额充值，每日最高限额500元。</string>
+    <string name="is_charge_unionpay_des">银联电话支付平台，银行卡用户无需开通网上银行即可使用，目前支持工、招、农、建</string>
+    <string name="is_complete_notice">为了你的账户安全请补充个人资料，身份证号是您兑奖的唯一凭证，请务必真实填写，保存后将不可更改。</string>
+    <string name="is_complete_ok_buy">购    彩</string>
+    <string name="is_complete_ok_charge">充    值</string>
+    <string name="is_complete_ok_notice">恭喜您成功的完善了个人信息，现在就开始你在彩民村的幸运购彩之旅吧</string>
+    <string name="is_complete_person_info_hint_area">如北京市</string>
+    <string name="is_complete_person_info_hint_bank_name">如中关村支行</string>
+    <string name="is_complete_person_info_hint_financial_cryptography">默认为登录密码，建议修改</string>
+    <string name="is_complete_person_info_hint_idcard">请输入本人有效的身份证号</string>
+    <string name="is_complete_person_info_hint_realname">务必与您身份证上姓名一致</string>
+    <string name="is_complete_personal_ok">完善资料成功</string>
+    <string name="is_complete_regish_ok">恭喜您注册成功！</string>
+    <string name="is_confirm">确定</string>
+    <string name="is_error_500">内部处理错误返回</string>
+    <string name="is_error_authentication_error">鉴权错误，非注册用户</string>
+    <string name="is_error_betting_failure">网络原因导致投注失败</string>
+    <string name="is_error_disk_space_shorttage">磁盘空间不足</string>
+    <string name="is_error_login_assemble_error">登陆数据组装异常</string>
+    <string name="is_error_network">网络异常</string>
+    <string name="is_error_no_network">无法访问网络，请核实手机网络设计</string>
+    <string name="is_error_not_find_resource">找不到请求的资源</string>
+    <string name="is_error_shopping_null">还没有选定彩票</string>
+    <string name="is_error_ssq_chose">请至少选择一个蓝色和六个红色号码</string>
+    <string name="is_error_story_low">应用在低内存下运行</string>
+    <string name="is_error_undevelop">未开发</string>
+    <string name="is_error_unlogin">请先登陆后购买彩票</string>
+    <string name="is_error_userinfo_error">解析用户请求错误，缺少必要的参数</string>
+    <string name="is_error_userlogin_password_null">密码不能为空</string>
+    <string name="is_error_userlogin_username_null">用户名不能为空</string>
+    <string name="is_error_wrong_info">数据响应信息错误</string>
+    <string name="is_exit">退出</string>
+    <string name="is_financial_cryptography">财务密码：</string>
+    <string name="is_forget_password_notice">您遗忘登录密码时可登录彩民村网站（www.caimincun.com）找回，或致电彩民村客服热线索回密码！
+	</string>
+    <string name="is_hall_3d_title">10选3中1000元 每天20:30开奖</string>
+    <string name="is_hall_balance">余额：</string>
+    <string name="is_hall_common_summary">
+		第ISSUE期 还有TIME停售
+	</string>
+    <string name="is_hall_hello">您好：</string>
+    <string name="is_hall_qlc_title">百万奖期期开 每周一 三 五开奖</string>
+    <string name="is_hall_ssq_pool">奖池M%元</string>
+    <string name="is_hall_ssq_title">两元获500万 每周二 四 六开奖</string>
+    <string name="is_hall_summary_default">数据加载中……</string>
+    <string name="is_jump_next">跳过，以后再填！</string>
+    <string name="is_loading">加载中……</string>
+    <string name="is_loading_lottery_issue">加载当前期次信息……</string>
+    <string name="is_location_area">所在省市：</string>
+    <string name="is_login">登 录</string>
+    <string name="is_login_notice">温馨提示：彩民村网站用户可以直接</string>
+    <string name="is_login_notice1">温馨提示：彩民村网站用户可以直接登录</string>
+    <string name="is_login_notice11">温馨提示：彩民村网站用户可以直接</string>
+    <string name="is_login_notice2"><u>登录</u></string>
+    <string name="is_login_password">密码:</string>
+    <string name="is_lottery_money_limit">单注投注额不得大于20000元</string>
+    <string name="is_money_unit">元</string>
+    <string name="is_need_to_chose">您还需要选择NUM个</string>
+    <string name="is_negative">取消</string>
+    <string name="is_news_detail_default_title">新闻详情</string>
+    <string name="is_no_enough_money">您的余额不足，清充值</string>
+    <string name="is_personal_card">身份证号：</string>
+    <string name="is_play_bottom_title">   共 NUM  注   MONEY  元   </string>
+    <string name="is_positive">确定</string>
+    <string name="is_qlc">七乐彩</string>
+    <string name="is_qlc_default_notice">百万奖期期开</string>
+    <string name="is_qlc_notice">至少选择七个号码</string>
+    <string name="is_random_blue">机选篮球</string>
+    <string name="is_random_red">机选红球</string>
+    <string name="is_real_name">真实姓名：</string>
+    <string name="is_recharge">充值</string>
+    <string name="is_regist">注 册</string>
+    <string name="is_regist_notice1">我已经阅读并同意《</string>
+    <string name="is_regist_notice2"><u>用户服务协议</u></string>
+    <string name="is_regist_notice3">》</string>
+    <string name="is_regist_notice4">注：手机号码是您中奖的唯一联系电话请务必填写真实号码，如有其它问题请与我们客服人员联系;</string>
+    <string name="is_regist_password">密     码:</string>
+    <string name="is_regist_password_error">密码错误，请重新输入</string>
+    <string name="is_regist_password_hint">6-15个字母或数字</string>
+    <string name="is_regist_phone_error">手机号码长度错误</string>
+    <string name="is_regist_protocol_error">您没有阅读注册协议，请您确认。</string>
+    <string name="is_regist_re_password">确认密码:</string>
+    <string name="is_regist_repassword_hint">再输入一次密码</string>
+    <string name="is_regist_success">恭喜您注册成功</string>
+    <string name="is_regist_title">免费注 册</string>
+    <string name="is_sd">福彩3D</string>
+    <string formatted="false" name="is_shopping_list_betting_money">        金额：&amp;#160;&amp;#160;&lt;font color="#ff0000">m1%&lt;/font>元&amp;#160;&amp;#160;余额：&amp;#160;&amp;#160;&lt;font color="#ff0000">m2%&lt;/font>元
+    </string>
+    <string formatted="false" name="is_shopping_list_betting_num">        注数：&amp;#160;&amp;#160;&lt;font color="#ff0000">n%&lt;/font>&amp;#160;&amp;#160;注
+    </string>
+    <string formatted="false" name="is_shopping_list_title">N% I%期</string>
+    <string name="is_small_bank_name">支行名称：</string>
+    <string name="is_ssq">双色球</string>
+    <string name="is_ssq_default_notice">双色球加奖了，两亿元大派送！</string>
+    <string name="is_ssq_title">双色球第ISSUE期</string>
+    <string name="is_ssq_title_default">双色球选号</string>
+    <string name="is_start_bank">开户银行：</string>
+    <string formatted="false" name="is_user_loginned">您好：N% \n余额：M%元</string>
+    <string formatted="false" name="is_user_loginned_notice">您好：T% \n余额：M%元</string>
+    <string name="is_user_loginned_test">您好：132632***** \n余额：100.00元</string>
+    <string name="is_user_loginning">登陆中请等候……</string>
+    <string name="is_username">用户名:</string>
+</resources>

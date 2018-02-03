@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/id_ssq_blue_title.bmp",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_ssq_blue_title.bmp"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/id_ssq_red_title.bmp",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_ssq_red_title.bmp"
+    }
+]

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 标题部分包括：1、通用标题；2、未登录标题；3、登陆后标题 -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentTop="true" >
+
+    <!-- 通用标题 -->
+
+    <RelativeLayout
+        android:id="@+id/ii_top_common_continer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/id_title_bg"
+        android:visibility="gone" >
+
+        <ImageButton
+            android:id="@+id/ii_top_return"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dip"
+            android:adjustViewBounds="true"
+            android:padding="0dip"
+            android:src="@drawable/id_title_goback"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/ii_top_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textColor="@android:color/white"
+            android:textSize="18dip"
+            android:textStyle="bold" />
+
+        <ImageButton
+            android:id="@+id/ii_top_help"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dip"
+            android:adjustViewBounds="true"
+            android:clickable="true"
+            android:focusable="true"
+            android:padding="0dip"
+            android:src="@drawable/id_title_help"
+            android:visibility="gone" />
+    </RelativeLayout>
+    <!-- 未登录标题 -->
+
+    <RelativeLayout
+        android:id="@+id/ii_top_unlogin_continer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/id_title_bg" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dip"
+            android:src="@drawable/id_cmc_logo" />
+
+        <Button
+            android:id="@+id/ii_top_regist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dip"
+            android:background="@drawable/id_purchase_regist" />
+
+        <Button
+            android:id="@+id/ii_top_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dip"
+            android:layout_toLeftOf="@id/ii_top_regist"
+            android:background="@drawable/id_purchase_login" />
+    </RelativeLayout>
+    <!-- 登陆标题 -->
+
+    <RelativeLayout
+        android:id="@+id/ii_top_login_continer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/id_title_bg"
+        android:visibility="gone" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dip"
+            android:src="@drawable/id_cmc_logo" />
+
+        <ImageButton
+            android:id="@+id/ii_purchase_system_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dip"
+            android:background="@drawable/id_purchase_system_info" />
+
+        <TextView
+            android:id="@+id/ii_top_user_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dip"
+            android:layout_toLeftOf="@id/ii_purchase_system_info"
+            android:text="@string/is_user_loginned_test" />
+    </RelativeLayout>
+    <!-- 首页标题 -->
+
+    <RelativeLayout
+        android:id="@+id/ii_top_host" 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/id_title_bg"
+        android:gravity="center" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:src="@drawable/id_title" />
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+android:interpolator="@android:anim/cycle_interpolator"：设置补间动画的移动轨迹
+@android:anim/cycle_interpolator：正弦曲线
+-->
+<translate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="100"
+    android:fromXDelta="0"
+    android:interpolator="@android:anim/cycle_interpolator"
+    android:repeatCount="3"
+    android:toXDelta="5" />

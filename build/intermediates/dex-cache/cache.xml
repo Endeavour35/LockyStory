@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/eden/AndroidStudioProjects/lottery/app/libs/commons-lang3-3.0-beta.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c3e5478c615df58fe04f946d4167b7cbd286c203">
+        <dex dex="/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/pre-dexed/debug/commons-lang3-3.0-beta_8e4bf8a3892b93e05fc6aa7c048fd54f2df63189.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eden/AndroidStudioProjects/lottery/app/libs/commons-codec.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fd32786786e2adb664d5ecc965da47629dca14ba">
+        <dex dex="/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/pre-dexed/debug/commons-codec_5a20a5cef3497757da639569964009e3e9484239.jar" />
+    </item>
+
+</items>

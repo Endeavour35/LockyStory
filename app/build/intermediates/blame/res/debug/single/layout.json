@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/layout/il_play_ssq.xml",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/layout/il_play_ssq.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/layout/il_shopping_trolley.xml",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/layout/il_shopping_trolley.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/layout/il_user_login.xml",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/layout/il_user_login.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/layout/il_news_detail.xml",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/layout/il_news_detail.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/layout/il_shopping_row.xml",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/layout/il_shopping_row.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/layout/il_play_prefectbetting_row.xml",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/layout/il_play_prefectbetting_row.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/layout/il_hall.xml",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/layout/il_hall.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/layout/il_play_prefectbetting.xml",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/layout/il_play_prefectbetting.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/layout/il_host.xml",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/layout/il_host.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/layout/il_shopping_trolley2.xml",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/layout/il_shopping_trolley2.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/layout/il_user_regist.xml",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/layout/il_user_regist.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/layout/il_top.xml",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/layout/il_top.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/layout/il_news_row.xml",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/layout/il_news_row.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/layout/il_bottom.xml",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/layout/il_bottom.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/layout/il_main.xml",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/layout/il_main.xml"
+    }
+]

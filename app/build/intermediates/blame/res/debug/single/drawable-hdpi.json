@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_add.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_add.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_login_login.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_login_login.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_login_registe.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_login_registe.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_buy_default.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_buy_default.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_buttom_bg.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_buttom_bg.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_loading1.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_loading1.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_purchase.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_purchase.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_union_pay.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_union_pay.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_ssq.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_ssq.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_loading2.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_loading2.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_lottery_shopping_buy.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_lottery_shopping_buy.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_logo.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_logo.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_lottery_shopping_initiate_buy.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_lottery_shopping_initiate_buy.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_3d_type_default_bg.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_3d_type_default_bg.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_defalut_ball.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_defalut_ball.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_reports.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_reports.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_shopping_delete_item.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_shopping_delete_item.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_charge_mobile.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_charge_mobile.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_news_default.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_news_default.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_helper.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_helper.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_purchase_system_info.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_purchase_system_info.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_choose_ok.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_choose_ok.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_lottery_phone_shake_bg.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_lottery_phone_shake_bg.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_3d_type_current_bg.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_3d_type_current_bg.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_loading6.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_loading6.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_loading3.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_loading3.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_analysis_default.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_analysis_default.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_buttom_menu_bg.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_buttom_menu_bg.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_lottery_hall.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_lottery_hall.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_3d.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_3d.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_lottery_add_random_num.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_lottery_add_random_num.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_title_help.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_title_help.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_login_bg_1.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_login_bg_1.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_login_tip.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_login_tip.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_title.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_title.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_clear_button.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_clear_button.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_alipay.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_alipay.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_title_bg.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_title_bg.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_lottery_phone_shake.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_lottery_phone_shake.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_betting.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_betting.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_loading5.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_loading5.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_bell.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_bell.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_login_tel.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_login_tel.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_lottery_home.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_lottery_home.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_drawlotter.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_drawlotter.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_lottery_recharge.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_lottery_recharge.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_cmc_logo.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_cmc_logo.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_title_goback.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_title_goback.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_redball.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_redball.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_subtraction.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_subtraction.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_clear_choose.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_clear_choose.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_login_bg_2.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_login_bg_2.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_lotter_shopping_clear.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_lotter_shopping_clear.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_lottery_myself.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_lottery_myself.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_purchase_regist.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_purchase_regist.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_news_details_web_error.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_news_details_web_error.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_textview_bg.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_textview_bg.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_blueball.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_blueball.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_qlc.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_qlc.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_purchase_login.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_purchase_login.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_loading4.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_loading4.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_lottery_add_optional_num.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_lottery_add_optional_num.png"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable-hdpi/id_3d_number_container_bg.png",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable-hdpi/id_3d_number_container_bg.png"
+    }
+]

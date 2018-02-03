@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable/id_item_bg.xml",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable/id_item_bg.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/drawable/id_animation_loading_web.xml",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/drawable/id_animation_loading_web.xml"
+    }
+]

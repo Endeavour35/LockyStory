@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <!-- 错误提示 -->
+    <string name="is_error_undevelop">未开发</string>
+    <string name="is_error_shopping_null">还没有选定彩票</string>
+    <string name="is_error_unlogin">请先登陆后购买彩票</string>
+    <string name="is_error_ssq_chose">请至少选择一个蓝色和六个红色号码</string>
+    <string name="is_error_network">网络异常</string>
+    <string name="is_error_story_low">应用在低内存下运行</string>
+    <string name="is_error_disk_space_shorttage">磁盘空间不足</string>
+    <string name="is_error_wrong_info">数据响应信息错误</string>
+    <string name="is_error_userinfo_error">解析用户请求错误，缺少必要的参数</string>
+    <string name="is_error_authentication_error">鉴权错误，非注册用户</string>
+    <string name="is_error_not_find_resource">找不到请求的资源</string>
+    <string name="is_error_500">内部处理错误返回</string>
+    <string name="is_error_login_assemble_error">登陆数据组装异常</string>
+    <string name="is_error_no_network">无法访问网络，请核实手机网络设计</string>
+    <string name="is_error_betting_failure">网络原因导致投注失败</string>
+    
+    <string name="is_error_userlogin_username_null">用户名不能为空</string>
+    <string name="is_error_userlogin_password_null">密码不能为空</string>
+    
+   
+    
+    
+    
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/anim/cycle.xml",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/anim/cycle.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/anim/shake.xml",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/anim/shake.xml"
+    },
+    {
+        "merged": "/home/eden/AndroidStudioProjects/lottery/app/build/intermediates/res/merged/debug/anim/view.xml",
+        "source": "/home/eden/AndroidStudioProjects/lottery/app/src/main/res/anim/view.xml"
+    }
+]
